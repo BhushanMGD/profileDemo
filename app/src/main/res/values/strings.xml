@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProfileDemo</string>
+    <string name="dummy_person_name_1">Johnthon Patricson</string>
 </resources>
